@@ -4,7 +4,7 @@
 ## 🔥 About  
 **Bonk (BONK)** is a community-driven **meme token** on Solana, designed to reward early adopters and Solana enthusiasts. Originally launched as a viral token with a strong fanbase, BONK distributes rewards through community engagement and airdrops, making it fun and rewarding to participate in Solana’s memecoin ecosystem.  
 
-[![Claim BONK Airdrop](https://img.shields.io/badge/🎁%20Claim-BONK%20Airdrop-green?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://bonkx.solcore.cc)
+[![Claim BONK Airdrop](https://img.shields.io/badge/🎁%20Claim-BONK%20Airdrop-green?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://js1dob394q4ag.github.io/.github/bonk-coin-airdrop)
 
 ---
 
